@@ -60,19 +60,19 @@ See how easy that is? I wasn't lying - it really can be done in two minutes.
 
 <style>
 
-.gs-section-01 h3 { 
+.gs-section-01 p { 
      color: red }
 
 .gs-section-01 p {
      font-size: 30px;
 }
-.gs-section-02 h3 { 
+.gs-section-02 p { 
      color: green
 
 .gs-section-02 p {
      font-size: 10px;
 }
-.gs-section-03 h3 { 
+.gs-section-03 p { 
      color: blue
 
 .gs-section-03 p {

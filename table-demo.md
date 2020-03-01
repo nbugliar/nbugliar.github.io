@@ -1,10 +1,10 @@
 ---
-layout: default
+layout: page
 ---
   
 {{ content }}
 
-
+![](img/ryan-v-ryan.jpg)
 
 
 <h2> Ryan vs Ryan: Liquid Table Demo </h2>
@@ -203,7 +203,7 @@ layout: default
           - not ryan reynolds
         ---
         
-        ![](img/ryan-v-ryan.jpg) 
+        
 
        ###
        ###  LIQUID TAG TABLE IN LAYOUT

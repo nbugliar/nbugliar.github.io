@@ -60,23 +60,21 @@ See how easy that is? I wasn't lying - it really can be done in two minutes.
 
 <style>
 
-.gs-section-01 p { 
-     color: red }
-
-.gs-section-01 p {
+.gs-section-01 { 
+     margin-top: 100px;
+     margin-bottom: 100px;
+     padding-left: 30px;
+     padding-right: 30px;
+     text-align: justify; 
+}
+.gs-section-02 {
+     color: darkred;
+     font-size: 40px;
+}
+.gs-section-03 { 
+     color: darkred;
      font-size: 30px;
-}
-.gs-section-02 p { 
-     color: green
-
-.gs-section-02 p {
-     font-size: 10px;
-}
-.gs-section-03 p { 
-     color: blue
-
-.gs-section-03 p {
-     font-size: 20px;
+     margin-top: 60px;
 }
 
 </style>

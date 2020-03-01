@@ -24,7 +24,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
-    - Getting Started: "https://github.com/daattali/beautiful-jekyll/blob/gh-pages/getstarted.md"      
+    - Getting Started: "https://nbugliar.github.io/getstarted.html"      
   Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
